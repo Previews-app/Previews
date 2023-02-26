@@ -4,7 +4,7 @@
 ## **Previews (For TTV & YT)**
                                                                                      
 **Previews (For TTV & YT) creates a live video or image preview when hovering over streams on Twitch & YouTube And offers a bunch of quality of life improvement features for both platforms.**
-<br/><br/><br/>
+<br/><br/>
 
 ## Download | **[Website](https://previews-app.com/)**
 **Previews (For TTV & YT) is available for all browsers:<br/>**
