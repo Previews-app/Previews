@@ -12,7 +12,7 @@
 **[Chrome Extension](https://chrome.google.com/webstore/detail/hpmbiinljekjjcjgijnlbmgcmoonclah/)
  | [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv/)
  | [Edge Add-on](https://microsoftedge.microsoft.com/addons/detail/nmekhdckniaiegiekejhmcmddplmliel)
- | [Opera Add-on](https://addons.opera.com/en/extensions/details/previews-for-ttv/)**
+ | [Opera Add-on](https://chrome.google.com/webstore/detail/hpmbiinljekjjcjgijnlbmgcmoonclah/)**
 <br/>
 * Chromium based browsers can install extensions from the chrome webstore. 
 <br/>
