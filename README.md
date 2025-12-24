@@ -1,13 +1,13 @@
 ![](1.png)
 <br/>
 <br/>
-## **Previews (For TTV & YT)**
+## **Previews (For Twitch & YouTube & Kick)**
                                                                                      
-**Previews (For TTV & YT) creates a live video or image preview when hovering over streams on Twitch & YouTube And offers a bunch of quality of life improvement features for both platforms.**
+**Previews (For Twitch & YouTube & Kick) browser extension - A bunch of quality of life improvements for Twitch & YouTube & Kick.**
 <br/><br/>
 
 ## Download | **[Website](https://previews-app.com/)**
-**Previews (For TTV & YT) is available for all browsers:<br/>**
+**Previews is available for all browsers:<br/>**
 
 **[Chrome Extension](https://chrome.google.com/webstore/detail/hpmbiinljekjjcjgijnlbmgcmoonclah/)
  | [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/previews-for-ttv/)
